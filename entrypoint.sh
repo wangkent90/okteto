@@ -6,7 +6,7 @@ DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
 ID=4b6a135a-df8c-4f1a-8cfc-d29cdf225815
-AID=64
+AID=5264
 WSPATH=/
 PORT=80
 
